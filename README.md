@@ -28,3 +28,9 @@
 ![1660250017350](https://user-images.githubusercontent.com/12086860/184237245-dd26fc7e-1b84-4490-b9cf-3d40a4ded550.png)
 
 **🌿 Ветка**: currency-converter
+
+## Коллекция фотографий
+![1660250202173](https://user-images.githubusercontent.com/12086860/184237707-4810b1d8-f20b-40cf-93ea-37d2051b87ba.png)
+
+
+**🌿 Ветка**: `photos-collection`
